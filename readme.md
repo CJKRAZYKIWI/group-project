@@ -1,5 +1,5 @@
 # Class Roster Project
 
-Wednesday
+Friday
 
 Contributed to by CJ, Juan
